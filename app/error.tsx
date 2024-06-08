@@ -1,10 +1,3 @@
-"use client"; // Error components must be Client Components
-
-import { Button } from "@/components/ui/button";
-import Center from "@/components/layouts/center";
-import MessageBox from "@/components/message-box";
-import { useEffect } from "react";
-
 import CardList from "@/components/card-list";
 import { DEFAULT_PER_PAGE } from "@/lib/constants";
 import SearchCardList from "@/components/search/search-list";
