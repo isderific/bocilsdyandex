@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bocilsdyandex.pages.dev/sitemap1.xml
+sitemap: https://bocilsdyandex.pages.dev/sitemap2.xml
