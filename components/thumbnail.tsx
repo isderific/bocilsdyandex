@@ -10,16 +10,16 @@ const ImageLoader = ({ src, width, quality }: any) => {
 };
 
 const Thumbnail = ({
-    snaps_img,
+    single_img,
     splash_img,
     title,
 }: {
-    snaps_img: string;
+    single_img: string;
     splash_img: string;
     title: string;
 }) => {
     const [imageIndex, setImageIndex] = useState(0);
-    const image = [snaps_img, splash_img, "https://iili.io/J5ahFSa.png"];
+    const image = [single_img, splash_img, "https://iili.io/J5ahFSa.png"];
 
     const handleImageError = () => {
         if (imageIndex === image.length - 1) return;
