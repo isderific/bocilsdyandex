@@ -3,7 +3,7 @@ import CardList from "@/components/card-list";
 import { DEFAULT_PER_PAGE } from "@/lib/constants";
 import SearchCardList from "@/components/search/search-list";
 import { SITENAME } from "@/lib/constants";
-export default async function Home({
+export async function Home({
     searchParams,
 }: {
     searchParams: { [key: string]: string | string[] | undefined };
@@ -27,7 +27,7 @@ export default async function Home({
         </div>
     );
 }
-export function NotFound() {
+export default function NotFound() {
     return (
         <MessageBox title="You are lost!" countdown={3}>
             <p className="text-center text-muted">
