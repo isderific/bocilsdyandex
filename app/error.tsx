@@ -19,7 +19,7 @@ export default function Error({
     searchParams,
 }: {
     searchParams: { [key: string]: string | string[] | undefined };
-}) 
+}) =>
     const page =
         (searchParams.page && parseInt(searchParams.page as string)) || 10;
     const per_page =
