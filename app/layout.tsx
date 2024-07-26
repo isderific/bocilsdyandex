@@ -7,15 +7,15 @@ import { ThemeProvider } from "@/components/theme-provider";
 const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: `Bokep Indonesia - Video Bokep Indo Viral Terbaru`,
-    description: `Bokep Indonesia Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+    title: `Bocil Sd Yandex - Video Bokep Indo Viral Terbaru`,
+    description: `Bocil Sd Yandex Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
     metadataBase: new URL("https://bocilsdyandex.pages.dev"),
     alternates: {
         canonical: `/`,
     },
     openGraph: {
-        title: `Bokep Indonesia - Video Bokep Indo Jepang Barat Viral Terbaru`,
-        description: `Bokep Indonesia Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+        title: `Bocil Sd Yandex - Video Bokep Indo Jepang Barat Viral Terbaru`,
+        description: `Bocil Sd Yandex Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         url: `/`,
         type: `website`,
     },
@@ -35,8 +35,8 @@ export default function RootLayout({
     const jsonLd = {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": `Bokep Indonesia`,
-        "description": `Bokep Indonesia Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+        "name": `Bocil Sd Yandex`,
+        "description": `Bocil Sd Yandex Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "logo": "https://bocilsdyandex.pages.dev/favicon.ico",
         "url": "https://bocilsdyandex.pages.dev",
         "founder":{
@@ -49,9 +49,9 @@ export default function RootLayout({
         const jsonLd1 = {
             "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": `Bokep Indonesia`,
+        "name": `Bocil Sd Yandex`,
         "url": "https://bocilsdyandex.pages.dev",
-        "description": `Bokep Indonesia Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+        "description": `Bocil Sd Yandex Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "image": "https://bocilsdyandex.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
@@ -60,9 +60,9 @@ export default function RootLayout({
         const jsonLd2 = {
             "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": `Bokep Indonesia`,
+        "name": `Bocil Sd Yandex`,
         "url": "https://bocilsdyandex.pages.dev",
-        "description": `Bokep Indonesia Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+        "description": `Bocil Sd Yandex Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
           "target": "https://bocilsdyandex.pages.dev/?q={search_term}", 
